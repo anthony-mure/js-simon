@@ -10,7 +10,7 @@ Dopo che sono stati inseriti i 5 numeri, il software dice quanti e quali dei num
 
 const countdown = document.getElementById('countdown');
 const numbersList = document.getElementById('numbers-list');
-const formAnswers = document.getElementById('form-answers');
+const formAnswers = document.getElementById("answers-form");
 const inputNumbers = document.querySelectorAll('.form-control');
 const button = document.getElementById('btn');
 
